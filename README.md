@@ -20,7 +20,7 @@ I am a **Flutter & Mobile Engineer** focused on building reliable, maintainable,
 
 -  **Architecture First:** I build with **Feature-First Clean MVVM**, **Provider**, **Dart 3 Sealed States**, and strict separation of concerns for testable, scalable codebases.
 -  **End-to-End Mobile Delivery:** Experienced in taking apps from UI/UX design and local caching (`SQLite`) to **Firebase** backends, **Google Cloud**, and production releases on **Google Play** & the **Apple App Store**.
-- ⚡ **Performance & Craft:** Focused on lean widget trees, surgical state rebuilds, `RepaintBoundary` isolation, and accessible, responsive UIs.
+-  **Performance & Craft:** Focused on lean widget trees, surgical state rebuilds, `RepaintBoundary` isolation, and accessible, responsive UIs.
 
 ---
 
