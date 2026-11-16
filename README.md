@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Innocent Agbadi 👋
+# Hi, I'm Innocent Agbadi 
 
 ### Flutter & Mobile Engineer | Cross-Platform iOS & Android | Firebase & Clean Architecture
 
-📍 **Ghana / Remote** &nbsp;|&nbsp; 🚀 **Shipping Production Mobile Apps** &nbsp;|&nbsp; 💼 **Open to Mobile Engineering Roles**
+ **Ghana / Remote** &nbsp;|&nbsp;  **Shipping Production Mobile Apps** &nbsp;|&nbsp;  **Open to Mobile Engineering Roles**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/innocent-agbadi-080222350)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stonard5560@gmail.com)
@@ -14,17 +14,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a **Flutter & Mobile Engineer** focused on building reliable, maintainable, and user-centric cross-platform applications for **iOS and Android**. My work spans **EdTech**, **FinTech / Microfinance**, **Service Marketplaces**, and **Secure Digital Voting**.
 
-- 🏗️ **Architecture First:** I build with **Feature-First Clean MVVM**, **Provider**, **Dart 3 Sealed States**, and strict separation of concerns for testable, scalable codebases.
-- 🔥 **End-to-End Mobile Delivery:** Experienced in taking apps from UI/UX design and local caching (`SQLite`) to **Firebase** backends, **Google Cloud**, and production releases on **Google Play** & the **Apple App Store**.
+-  **Architecture First:** I build with **Feature-First Clean MVVM**, **Provider**, **Dart 3 Sealed States**, and strict separation of concerns for testable, scalable codebases.
+-  **End-to-End Mobile Delivery:** Experienced in taking apps from UI/UX design and local caching (`SQLite`) to **Firebase** backends, **Google Cloud**, and production releases on **Google Play** & the **Apple App Store**.
 - ⚡ **Performance & Craft:** Focused on lean widget trees, surgical state rebuilds, `RepaintBoundary` isolation, and accessible, responsive UIs.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <div align="left">
 
@@ -50,7 +50,7 @@ I am a **Flutter & Mobile Engineer** focused on building reliable, maintainable,
 
 ---
 
-### 🚀 Featured Work
+### Featured Work
 
 #### 1. **S Learning** — *EdTech Learning Platform (Flagship App)*
 > Live cross-platform mobile application empowering students with structured lesson plans, interactive quizzes, rich math rendering, and offline-first study tools.
@@ -95,7 +95,7 @@ I am a **Flutter & Mobile Engineer** focused on building reliable, maintainable,
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
 
@@ -108,7 +108,7 @@ I am a **Flutter & Mobile Engineer** focused on building reliable, maintainable,
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/innocent-agbadi-080222350](https://www.linkedin.com/in/innocent-agbadi-080222350)
 - **Email:** [stonard5560@gmail.com](mailto:stonard5560@gmail.com)
