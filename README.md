@@ -119,18 +119,6 @@ I am an **AI and Mobile Systems Engineer** focused on designing reliable, produc
   - **Clean Architecture Prototype:** Built on Feature-First Clean MVVM, `get_it` service locator dependency injection, Dart 3 sealed states, and centralized constant/theme token managers.
   - **Preference-Driven Onboarding Engine:** Interactive multi-step user preference configuration and live feed personalization preview.
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-![Innocent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stonardgh&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stonardgh&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=stonardgh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
